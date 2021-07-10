@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+
+# IDE
+.idea
+.project
+.strong-pm
+.vscode
+
+# Environment
+.env
