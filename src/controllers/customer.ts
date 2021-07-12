@@ -32,7 +32,9 @@ const login = async (ctx: DefaultContext) => {
   }
 
   ctx.status = 200;
-  ctx.body = customer;
+  ctx.body = {
+    isLogin: true,
+  };
 };
 
 export default {
