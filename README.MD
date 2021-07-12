@@ -16,7 +16,7 @@ CRYPTOJS_KEY=<TU CRYPTOJS KEY>
 
 ## Iniciar la API desde el host
 
-- Primero asegurarse de tener la version de node 14.6.X
+- Primero asegurarse de tener la version de node 12.16.X
 - Instalar las dependencias:
 
 ```sh
